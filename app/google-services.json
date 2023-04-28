@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722596063479",
+    "project_id": "androiddiktalas",
+    "storage_bucket": "androiddiktalas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722596063479:android:c326e21ef556eccc950bf2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722596063479-jkpqbdl7lbn0jjglaofrddlvrrblit0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "01114a34c3fa7309ad1ad25afc17ba0a7f64dcd7"
+          }
+        },
+        {
+          "client_id": "722596063479-muf28duh8l4qj10725gfseprbuh7tpi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4V-KP2PWZM1APOWoRUrYryVURd-fM_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722596063479-muf28duh8l4qj10725gfseprbuh7tpi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

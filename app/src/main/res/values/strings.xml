@@ -1,0 +1,93 @@
+<resources>
+
+
+    <string name="app_name">Villanyóra diktálás</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">Email cím</string>
+    <string name="confirm_password">Jelszó megerősítése</string>
+    <string name="cancel">Mégsem</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Postai cím</string>
+    <string name="private_person">Magánszemély</string>
+    <string name="company">Vállalkozás</string>
+    <string name="dictation_str">Diktálás</string>
+    <string name="calculation_str">Kalkulálás</string>
+    <string name="archive_str">Archívum</string>
+    <string name="anonym_login">Bejelentkezés vendégként</string>
+    <string name="login_google">Bejelentkezés Google fiókkal</string>
+    <string name="item_placeholder">Nemzeti Villanyerőművek</string>
+    <string name="item_info_placeholder">Rengeteg áramot szolgáltat</string>
+    <string name="item_favourite">Kedveltekhez</string>
+    <string name="search">Keresés</string>
+    <string name="favourite">Kedvencek</string>
+    <string name="view">Nézet</string>
+    <string name="settings">Beállítások</string>
+    <string name="log_out">Kijelentkezés</string>
+
+    <string-array name="phone_dropdown">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="menu_item_list">
+        <item>Paksi atomerőmű</item>
+        <item>Paks 2 soon tm</item>
+        <item>Debreceni Villanyművek</item>
+        <item>Budapesti Napelempark</item>
+        <item>Ózdi Aramelcsapoló</item>
+        <item>Alpoki Szélerőműpark</item>
+    </string-array>
+
+    <string-array name="menu_item_desc">
+        <item>Pakson található nukleáris atomerőmű, olcsó áram forrása</item>
+        <item>Paks 2 soon tm, elvileg ugyanaz mint a paksi, csak jobb és még olcsóbb áram</item>
+        <item>Debrecenben található, 2036-ban épült, ideális környezet családosoknak</item>
+        <item>Budapesten a felujított hősök terén épült, teljesen zöld övezet, mintha nemzeti parkban járnál</item>
+        <item>Ózd, szerintem többet ehez nem kell hozzátenni</item>
+        <item>Alpok magas "hegyei" lehetőséget adtak eme remekvű kiépítésére, bakancslistás</item>
+    </string-array>
+
+    <array name="menu_item_rates">
+        <item>3</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>5</item>
+        <item>1</item>
+        <item>4.5</item>
+    </array>
+
+    <array name="menu_item_images">
+        <item>@drawable/mvm</item>
+        <item>@drawable/mvm</item>
+        <item>@drawable/mvm</item>
+        <item>@drawable/mvm</item>
+        <item>@drawable/mvm</item>
+        <item>@drawable/mvm</item>
+    </array>
+
+    <string-array name="menu_item_place">
+        <item>Paks</item>
+        <item>Paks</item>
+        <item>Debrecen</item>
+        <item>Budapest</item>
+        <item>Ózd</item>
+        <item>Alpok</item>
+    </string-array>
+
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="login_email">Bejelentkezés email címmel</string>
+    <string name="loading">Loading...</string>
+    <string name="delete">Törlés</string>
+    <string name="bill_str">Írja be a fogyasztását!</string>
+    <string name="enter">Bevitel</string>
+    <string name="bill_edit_text">Hónapban fogyasztott áram</string>
+
+
+</resources>
